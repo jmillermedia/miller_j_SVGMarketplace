@@ -1,1 +1,10 @@
 /* CSS STYLESHEET START */
+
+main div {
+	width: 43%;
+	display: inline-block;
+}
+
+img {
+	width: 100%;
+}
